@@ -483,6 +483,23 @@ h3 {
     min-height: auto;
     padding-top: 3rem;
     padding-bottom: 2rem;
+    text-align: center;
+  }
+
+  .hero-copy {
+    text-align: center;
+  }
+
+  .section-heading.narrow {
+    text-align: center;
+  }
+
+  .software-card {
+    text-align: center;
+  }
+
+  .airtable-copy {
+    text-align: center;
   }
 
   h1 {
